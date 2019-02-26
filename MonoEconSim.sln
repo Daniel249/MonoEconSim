@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoEconSim", "MonoEconSim\MonoEconSim.csproj", "{1DB94E9A-3E94-4398-B680-1D45E399EDD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DB94E9A-3E94-4398-B680-1D45E399EDD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DB94E9A-3E94-4398-B680-1D45E399EDD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DB94E9A-3E94-4398-B680-1D45E399EDD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DB94E9A-3E94-4398-B680-1D45E399EDD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D043FA6-97D2-40A4-BB93-1D446697A862}
+	EndGlobalSection
+EndGlobal
