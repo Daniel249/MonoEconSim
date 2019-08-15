@@ -7,14 +7,14 @@ namespace MonoEconSim
     /// <summary>
     /// This is the main type for your game.
     /// </summary>
-    public class Game1 : Game
+    public class WorldMap : Game
     {
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
 
 
-        
-        public Game1()
+        // constructor
+        public WorldMap()
         {
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
